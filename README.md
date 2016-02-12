@@ -1,8 +1,21 @@
 A Scala Gradle skeleton
 =======================
 
-This is a small Scala Gradle skeleton that can be used to start Scala and Gradle projects with Intellij.
+This is a small Scala Gradle skeleton that can be used to start Scala and Gradle projects.
+It works with Intellij (CE).
+
+
+Requirements
+-------------
+
+* Make sure the Gradle plugin is loaded in Intellij
+* Make sure the Scala plugin is loaded Intellij
+* Set a Scala interpreter Intellij
 
 Usage
 -----
-Download the Zip file and use import project to get started.
+
+* Download the zip file 
+* Use Project -> Project from existing sources
+* During the import a pop-up appears: choose Import Gradle Project
+
