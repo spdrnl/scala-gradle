@@ -8,9 +8,9 @@ It works with Intellij (CE).
 Requirements
 -------------
 
-* Make sure the Gradle plugin is loaded in Intellij
-* Make sure the Scala plugin is loaded Intellij
-* Set a Scala interpreter Intellij
+* Make sure the Gradle plugin is installed in Intellij
+* Make sure the Scala plugin is installed Intellij
+* Set a Scala interpreter in Intellij
 
 Usage
 -----
@@ -18,4 +18,5 @@ Usage
 * Download the zip file 
 * Use Project -> Project from existing sources
 * During the import a pop-up appears: choose Import Gradle Project
+* On the right side, choose Gradle -> Tasks -> Other -> run
 
